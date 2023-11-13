@@ -1,0 +1,26 @@
+{
+  "name": "Jean French",
+  "age": 54,
+  "address": {
+    "street": "Emujad Grove",
+    "city": "Afurgut",
+    "state": "SC",
+    "zip": "12264"
+  },
+  "contact": {
+    "phone": "(546) 714-3151",
+    "servicePhone": "800476548"
+  },
+  "birthday": "1964-05-25T06:44:39.338Z",
+  "ip": "25.17.253.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Tave git ba rito bu fes zeduc egbazva hol zafhugbi ifud ow hacobvic selus. Fe efelu duko uri beriz neg im pivgidej fiw nep ew jedidgu zacukvi puveruku ge fi lehaf. Vo soraum up ceodena ubi ab jisi pucwur etcutmo akabaobe uf hugegour fog detuat ejensot pu joudnu tal.",
+    "bio": "Hodaaj rokisfa usbak nartajdek ibkaij ivwekofe fagkopuv rejifnoj fokicwa riow obducah gorowbez go cas fosgek uv ra. Vi asbi zeem uhonisno beleno ezosohu mesuc iwoiguh hinhok ruwreh roin ifa. Vedi namelet umemimga keczed rug ceksegfub acafak cifnegi ke helowves fav sivbep rod cih go jolid. Jujil kocvuj ode emafuoj zodo katgofmon wupgi jujsiel totori warso wotut giw ca hosho lileroze ba ho. Iliruw iteka tov picez wujicig gidogca jipdod ucusepot ubufo olzat kafbu lezratu macumnop be. Bul cuzuheb zimna lavolo ilasot cu guosnu gogfooto nalju lamfi ibumu kotnaktu kusu zuagewod. Zig nabkonden vi ovodab pukew ofa omofatoh jormiwa um gibew duumupe ma."
+  },
+  "apiKey": "337d99235379735c28d88fa6a00c089a288bf282ac9c5b5bd7d3ffe232f8a531",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
