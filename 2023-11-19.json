@@ -1,0 +1,26 @@
+{
+  "name": "Brent Duncan",
+  "age": 35,
+  "address": {
+    "street": "Paeku Grove",
+    "city": "Imoimufa",
+    "state": "AZ",
+    "zip": "29104"
+  },
+  "contact": {
+    "phone": "(911) 422-1105",
+    "servicePhone": "800335558"
+  },
+  "birthday": "1984-12-31T13:42:06.701Z",
+  "ip": "21.193.17.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Kemaz pukru kuji cer zesacivan mutfaez rakzi esa ikiipvup ar te puwul. Imcotu zudutuv du jed de suzciszos peiva cekfilej fezculsoz telile faba tiruc ji hirozor noow jawol. Lufuw kufod mopnajanu figziemi icki liglumob cezfe ro fuhfa zaud ajubi fuvkihder pobdigipe bewelem dado zaoj is hohbam.",
+    "bio": "Wadeva hukluaf fehpu kus ceifi gennob ewezu tagumon kutegbis dejfeci suwi nojget wo fekolvef pu. Ecvekinu kenuw gajugib uwavi jescudeg gezata mi wi tuore cic roja umnioci otdor bac tet mafic rafon vikceaz. Dufelvo fudacru wizaji la lu cus ko diap pepco iviviof keet vucjeweb."
+  },
+  "apiKey": "5b1526c10dc16c3f239c79594009d4c67e79669d322a0647faefbf183362c8ba",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
