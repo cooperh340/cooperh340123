@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Hicks",
+  "age": 60,
+  "address": {
+    "street": "Ihmo Highway",
+    "city": "Ijadasom",
+    "state": "MD",
+    "zip": "32568"
+  },
+  "contact": {
+    "phone": "(362) 486-6484",
+    "servicePhone": "800589695"
+  },
+  "birthday": "1999-01-27T07:31:32.725Z",
+  "ip": "92.221.37.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Daagiha zar cajjucmaf lo foz ajona par gahzeol fapwos raca izodawas veic. Faleh ohhacgal roca huzhu pojeziku mihuj doir sekdewus suoffow saravire vofiefo ju. Nibfedtug wopwi ihoebvo heglew et amgorpo itago ze cum dibe bi re era owiw artonkig jut. Pehi rinwo ovisenwos jap edlez ukari gupogehuk uw cedlu dokalazu vapocuga teh sajhecze cizmoh lelac.",
+    "bio": "Nimegge vanjig govuzfeb esnilak uzoba ezu wo citibi nudubvew pazarot he juco. Amovifzac banalo ruhivoaci penidtik gikjunobe uhuohoit arisa moto tep mak gucuzsez sahwok samkegco arparbul duchu uji fa. Je onecicu ukbiw za atza lewnetjut gonu aknazav vov gu mo radibnon mod ami."
+  },
+  "apiKey": "23f4a4fdf47678c499438b78c5c9283d014956ea5c06bf52a7542bccc61ff136",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
