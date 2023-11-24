@@ -1,0 +1,26 @@
+{
+  "name": "Edith Ryan",
+  "age": 30,
+  "address": {
+    "street": "Nizpil River",
+    "city": "Zepevah",
+    "state": "NY",
+    "zip": "49403"
+  },
+  "contact": {
+    "phone": "(555) 269-5534",
+    "servicePhone": "800288496"
+  },
+  "birthday": "2006-02-26T06:59:40.915Z",
+  "ip": "146.37.3.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Upewawa sala ro divjebla roka ih vagora onredev udwoet ri kehoczur ku rabne ihisa. Giha keh liaminen vozaw fokor gifo sava mek bekvuh ko mewe micaf ese. Sikpo lab fobbevfif kisik buc vo ge wuw gir ubo na mi. Za to pureg fuzec ecup nohezca wojmad vipguh racoc habuz nos mugiiz somen fufod iv. Avhi vug kajhaig ir zodadfe tih tejre owigiev igukeve janehi edseh rituv tusluv teb. Zadi seeri ocgoov eru vid ol omeicam citzitwo ompagbon ut kitfu zo raci ilesus fib un. Irep jeg vapaka amaj buj diidpa zu vadelrop za vusso irevobfe juas ti imudit filowmod.",
+    "bio": "Besid veh vewojeli epugusso em gicwiw rahehco ji dub kifug uzicafgac ovawemzes gadlodod revafic magedcu ke jurlapak. Mov cilfew vut dubpu ob vehigiber jo ve abkovufo zieheufu izali luzvu wus ragtucta. Zumcofle do epoeve wuurpov ogpe babrabod one duha raf paka jajfewuz telowvol oji filmomel."
+  },
+  "apiKey": "dc2327a30a797ff884e52289d49efe90df57fabe6b52a8c802a6cfb9871c0229",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
