@@ -1,0 +1,26 @@
+{
+  "name": "Jason Rose",
+  "age": 65,
+  "address": {
+    "street": "Cadu Mill",
+    "city": "Beznuwge",
+    "state": "SC",
+    "zip": "43075"
+  },
+  "contact": {
+    "phone": "(354) 250-9951",
+    "servicePhone": "800772987"
+  },
+  "birthday": "1988-04-26T17:13:17.998Z",
+  "ip": "211.76.57.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ev hu wic voaro vafok lorcavfev ovcuk vi cot tevva dab tog. Mupaebe zinuvkuc bovi ref ne do pemi ifhu jucujtu guos miw takramek cedihuk soto. Pucaphu kolpa dinalfi safolup fo riwama lec az na oz pejo ipsa huagco. Jabuapu how wo nu ur sasat uzavuza so koefu nif ompi ofmak godtuoto rit pomdicho nimpi.",
+    "bio": "Do ror fefogdu do awuhecbuj jejunvi ji zob lojvora tusti kavo nam kuza luahkez. Fe vozag pofet owonogev hidipar no fivatemu ce co tucegewu uvihher habudahoc upu tu nivze fu ota rifzicuj. Ructoliz haj povoti sujdecni kachueku dale wa sasojmal cosinemir be raohoku dunevcom doetvoc nac ebi hel."
+  },
+  "apiKey": "c7ece27aaf32953ff879201eda95713f3fafdc2dd73ae13c29fbea644828dbed",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
