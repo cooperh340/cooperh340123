@@ -1,0 +1,26 @@
+{
+  "name": "Lou Carlson",
+  "age": 60,
+  "address": {
+    "street": "Pemopa Path",
+    "city": "Izkerar",
+    "state": "CA",
+    "zip": "27127"
+  },
+  "contact": {
+    "phone": "(226) 862-7062",
+    "servicePhone": "800577555"
+  },
+  "birthday": "1984-11-18T05:56:07.907Z",
+  "ip": "32.132.46.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Cawo hivujti cefoteb liad vewoma jipere va iti fahbompi vo nohsog evu watdipi copjircek. Ec hufef vec gaccizsij it mugdu abulawwob heg tobjorze vofdizzu mupzehbuw ce. Iwkep vihpeto voici gugak sasenwi afjif gib hucif ajauvene kum bez adcegjud afa amufu daboz fecoju onipale.",
+    "bio": "Uzjar gov cuiweav wok ilde iliz akokafog gophaji zulazno so duunin wa gaj reznowje zeariid. Tuveado gigevhif mo wade wot ek huvbuf hilpoej badsuhfur lusmo zoigowon ojbaare kuvkulus ku. Ehavusu juloon jecmur avnerani tuzme dep papfocfu idginup ulewi fovog romkufo hoos mat wom vi."
+  },
+  "apiKey": "941aca82c322364cbfc335b7cf26106e5dc270a6922eecb9eb8754c189a623b6",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
