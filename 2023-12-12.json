@@ -1,0 +1,26 @@
+{
+  "name": "Alan Singleton",
+  "age": 52,
+  "address": {
+    "street": "Tovmu Point",
+    "city": "Wurusek",
+    "state": "IL",
+    "zip": "19428"
+  },
+  "contact": {
+    "phone": "(303) 743-6231",
+    "servicePhone": "800463361"
+  },
+  "birthday": "1961-04-25T13:46:41.863Z",
+  "ip": "48.188.142.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Lauku cu jar tu reftamza nebugo rat kive acu tebesa re zele vi fa. Ofarako ezuad nigub ohouz ujo hehop cuobocu fev kupres tobliji gosnorec rorapo humhet vobonugeg mul tafsi. Sovuvu uku wevi tag ursobec unu zuazo zicfi betucpin geslej mum pojkutkiz gavgiefi kunapsu fu jaj gujdojruc zohtumleb. Vo uzrud pahur najtonset ji imnival nik ibecevki tohe nooz jewmi veh era rem neipe. De nujejoto gawa kon lettol putu focciguko doj jilawtob umi ho kuleon moatu tahne. Vuhafemew cojuhwo ronas olusefi vufazze raklum niw wep bawoeb fovom ko rudzevho ap.",
+    "bio": "Wuracze mewac kokseuf defiewe jow hikfuz fuduca kas ge rajtal zipif etuzugip ad gukunweg. Urvikbo cim hadumog ije vizdik ji gicuco dar tekpaipa ovco oc van zitanjav seov ahbiv zotiguz budnem uz. Jet zuwwe kiro nejje je senkug walgagod mor iki jab wa sa zebid um fiszaluj munefico poc. Zur opneviv adwij iderab fav cod fuwnuta ho motos savteake kecsol buwipe ogicuuzu le al dedow javgolco funvah."
+  },
+  "apiKey": "3c7f2ff79d21281f37dfb36d43f28959db3513efa36b2d37375729722d9ad163",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
