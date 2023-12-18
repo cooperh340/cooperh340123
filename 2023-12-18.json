@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Ford",
+  "age": 47,
+  "address": {
+    "street": "Pudez Pike",
+    "city": "Mejzezul",
+    "state": "CO",
+    "zip": "87260"
+  },
+  "contact": {
+    "phone": "(605) 383-7300",
+    "servicePhone": "800642875"
+  },
+  "birthday": "1976-11-15T13:36:54.524Z",
+  "ip": "153.129.173.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Curapaori dun ze fuba kute vujpew lar ji ritediz umgec si kiba ewcil. Kap zewe ga jecos suimu kanana ja bupzi afu pejzivnu god amihobbu ihdi ameoszu vuk sesav opsah otha. Muw agu lowzu ulo gowpu bumofapuh wabic on an rab amu unejufon cicmag. Ralmob ra wu hacpa wigigeve duwsicsiv fat cazuseh veim wowepa defu naudo. Pueba pul jiwohiisu bomonuz atarave gi picu gitnuhja wenov tofuh iha kuf ike.",
+    "bio": "Etidan caruc tocuclow sukvizan fuwseke ime alu ubzadsam caf sithigu now bepfotdef civjen tutinvi gu. Aden veg gi ujafaet zo fib let ojoci nig joczal pazni med zossemniw akuuf igvurem apo jele. Adafob oce ale gazace ra cefip iguvo moez ce acjewu zip doj aki. Lerehede ru peopu jadvi camgi toniw barvovo goc mejpecguf ramip rezudre boagowa kuzowap wubkato. Vufev dag ovihukop goilhel pafujo wufek vuheraz job sigab ce vaudfen onehig tuentod wut huzsaluv afenu. Ucjuh hiuze nan lunopuwe dagpun ol zi use metumzup ra siabiupo tab uwuon rupam bidud lunjaba."
+  },
+  "apiKey": "d51d7ee447598e89a4209018ed5c4dc9072121f78dec66e836d81693533cb3cc",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
