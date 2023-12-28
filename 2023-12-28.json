@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Richardson",
+  "age": 25,
+  "address": {
+    "street": "Uzza Road",
+    "city": "Jodorub",
+    "state": "VT",
+    "zip": "82452"
+  },
+  "contact": {
+    "phone": "(700) 898-8652",
+    "servicePhone": "800163772"
+  },
+  "birthday": "1980-10-12T04:36:45.408Z",
+  "ip": "139.163.186.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Hezjup weknoda mi segcik julaz geh awirur ohijozpi ges veiv ehsa verrovmuw jolwa pawposeg ceop venepe fuluibi. Kahepace hamusip pe vege wefkojes mumfuep jictipzir uzozamej mizmezer vod culiwcot nizzo. Metdavni mafir heda tigopapu lanepam ok igusebtum uwgilful hajvecka vu catmef tuewejer badioci pofwinul merib he. Buv fitujba ifi vegetah geg fihap edi pubjajor lustezil otgaz or veheb fibigolih tus. Gaedawo ojileva pub ud ledrubo luzbuaso mume ehmuk caj aha wugotet iclubmas kipseg. Ukusuj lew awdelza rita mifcebhar bogoru fetwe mulikup zar guv fomi eg gomis jegaz vusof capwupca. Vulsijjab bas him setji ga zijabew so bu moketifo cowur apovumi tob ciwefkib juzubko anaeb vetfu luhu.",
+    "bio": "Ve eduri tijtusa ji odhitjum mo cave cihzumna fi bodoniso ge kalaewu ahoeji pugu nilobe. Hijtiifu degu ca bohonlar defiman epana ifdec maen adag hefkew fibega poepu oguozi racug ki ze. Pojbatli rinli hasi lik cudwefan vubfag lob deru wor ruf oga ako veodiim isri. Lepujke give olli tipseva gekuf volam ge tolpos ho vupkurlif ekiw sejafsoj cu jur okpe fika ni zotvabeso. Ipjunze ipolaw duvbuce ebitpi owi zukeg wo ifudafeb fofecabec dop pu hifka."
+  },
+  "apiKey": "bb52281ac0d098e39633f1b2bd59339d4671d72b8baedb0c189add7d0ecbfb4d",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
