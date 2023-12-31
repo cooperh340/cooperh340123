@@ -1,0 +1,26 @@
+{
+  "name": "Belle Abbott",
+  "age": 60,
+  "address": {
+    "street": "Ziku Circle",
+    "city": "Arlefec",
+    "state": "LA",
+    "zip": "44414"
+  },
+  "contact": {
+    "phone": "(319) 845-4826",
+    "servicePhone": "800812811"
+  },
+  "birthday": "1966-05-03T16:55:52.991Z",
+  "ip": "34.148.168.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvujo retac acadimgu ce gopwav iri zim ca potertuk vah bu lul ulegig huw agaupe sot. Sobiz sihjo lun haopvut es somuso ni jag cihol put nu iwajut kaoz. Vevhic lovimfow is fe zow apejatta het fa umiebfa lobav vipcugrun elju.",
+    "bio": "Cegohlo bolcij fikakit notdef duwohfas tizlo rasvezaf na fobohu forimob ohe wulonti vo. Nofhu omiilo zezowo ifa legawko bo lo acoelca ku munekmi iteehu tahehoz suhdi fol abu. Buzrilu tohojo vutfig ige osues zi hugehaem gompanwul rerjujmim fimijav ilkocaj dic wamfiuve uji lilvulifa ventor."
+  },
+  "apiKey": "dde80e4739e85bea162d7a6ae33b06dfcc817260314a19a3c93c83fa4ede860f",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
