@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Baker",
+  "age": 25,
+  "address": {
+    "street": "Rogbud Center",
+    "city": "Tefule",
+    "state": "DE",
+    "zip": "02187"
+  },
+  "contact": {
+    "phone": "(370) 994-3700",
+    "servicePhone": "800597626"
+  },
+  "birthday": "1959-04-01T03:24:31.748Z",
+  "ip": "254.41.250.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Adnib funopuf gelpo tab tedesjo hemluspa obsa owpuzdew vuv vusi roh larceega vil. Ic pacto wa pive weswud foz lirpu jibunkik vul veg canpisla gogopcaf ukojepok tib riczu gad. Va durop vojse duvdo wirobdap tuzer zivsicna bo cawip goraod lit afevem kul jeemu emu uwe. Ena godvibzin bobulmu aruarizak azihilcup fo ene iga disimin wuv ham wawih. Ahe lo ves efiezi ce ejo wufbuz re iwvok oketirpeh kaz huvogzad.",
+    "bio": "Ru ubemuv atlol jo jibu borgejeg be dum tohameat suhidefu somneh mac kina vifnahfev ulekiv hititpag aswora. Bahuce kuspazfen kozkem is tadnojzi na og wude lukvidsu dulukuj fehno gestasil pekpak icbo uzaej in. Wojita mozojfi veh vacehno hare omumujoh luzake rirak ocur ne uzepizu kimwoki. Taztapwip po ab ipdi sijtatro uv ca lokiz rej sutfoge ole aponawi bavilru kesop coligmas nofmaci joc. Uf coumohab tufo ka irulnid hahjitef iswu va kivsi lu metbo rap. Ma ip wulu go fen cialaama evsi wahas tov kibpuhe gap ocili junnabti buwa ram."
+  },
+  "apiKey": "3e2cc81f2c79c38721925eb5cb0e39b54cc3e5a92d8596c1748bade4d03fcdfc",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
