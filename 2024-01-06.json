@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Norton",
+  "age": 23,
+  "address": {
+    "street": "Wupte Grove",
+    "city": "Tiltewa",
+    "state": "ND",
+    "zip": "40120"
+  },
+  "contact": {
+    "phone": "(272) 595-3519",
+    "servicePhone": "800742242"
+  },
+  "birthday": "1991-11-15T21:38:30.239Z",
+  "ip": "22.25.160.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Mowij jado zemdul anve huunla jifivaca si dawlem ne ove bele hitug gihita tutpopka kurdewisu zaru cat. Of ovo ba ba mukisiv poacepod dawil nuwvi geluve jilub dipjalduj subro goful seda noc kijri nohu hore. Ku gi kaj pa te tibta ih gadse negboj zuke tas gewvim nezhejo. Cop koni cipelafuv zibe woc voju ba wa buswa eguri za ti ege rupofmis mu cuub buukwa.",
+    "bio": "Romoage rocva zafwe edoetpu uma dadbonen bodoha zi sial nehefu betjet wa. Tijnawoz wi ero sa pocul teshukim docirme fenjir dotel del jamsi wirol ce zofso. Sew usriecu du ga zucninwaj sozuhe ke rigajde aszelzu bovuz sizhepiji cobwakga bo pevnewpul fopnej udocilko kuazo."
+  },
+  "apiKey": "1fc5fabb60059fd300a7e52326221af78284bfb5952c0e4a1bad1966172358b9",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
