@@ -1,0 +1,26 @@
+{
+  "name": "Larry Chambers",
+  "age": 44,
+  "address": {
+    "street": "Nolomi Square",
+    "city": "Vemvetic",
+    "state": "WI",
+    "zip": "93060"
+  },
+  "contact": {
+    "phone": "(945) 522-7208",
+    "servicePhone": "800439366"
+  },
+  "birthday": "1991-03-20T00:01:14.706Z",
+  "ip": "29.33.127.37",
+  "foo": "bar",
+  "profile": {
+    "about": "We vof bifhihfeb me pobfokved pih du zaejo upgo dislez honmud borfu uduru aj. Iwa bulciz dasigic kufhoapi fofre felog iho if me harug purtasbaf fombij mijhocov tis dateggu duk pihses foconno. Bajmeten pebilewo wunzo dajhazoj tapugaton dat caci nagkonvog fikihe mebci zume ohadaola bofsiho va isiwoaji ela.",
+    "bio": "Goc ugbawji bamamo fo bezar uwhon upgogka nupupke ahe fifci ohcilhu enogi. Rih koan akiok efsuzsur ipiojako bimde pifpab ecbup giv zo refisko bu. Fefjo gadofehe zukusbec mowjal jujanikas ip ofzap us sabaw towe haw tataw ato pes nawin zaw eglena."
+  },
+  "apiKey": "afdf66ce6f42c097408a89ef5fc136a8945da04c1ca0a1048ba5a3050dd0cacc",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
