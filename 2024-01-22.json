@@ -1,0 +1,26 @@
+{
+  "name": "Ada Powers",
+  "age": 41,
+  "address": {
+    "street": "Dafe Park",
+    "city": "Jourcum",
+    "state": "OR",
+    "zip": "70181"
+  },
+  "contact": {
+    "phone": "(516) 947-7197",
+    "servicePhone": "800449511"
+  },
+  "birthday": "1968-07-28T21:43:46.220Z",
+  "ip": "150.10.111.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujjibla girwodo wukom maccitubu wus vaw to ga vugalbe lelele bi uwook okuum. Abocis min vodlewkub ku nahilar zapliru arogat do kenbune ziwvani gisa rotmefer kidavliz giice zuvuj wozus rakcukeh fu. Navfutaj ti ibve me jirke kuuptu kori gudi upzikid wic se fawlen bohtiffo cekal eftiowi er fi. Kincigabo ebo wom veoto oguaviwa cicbar pa awojehad jitudhu pivifa ag picco nozon comcuc. Oci foge cojli pukkovroc cadawni legeciaka bebiphoz hojgenib gan usu ja ufpowzot awede.",
+    "bio": "Firvofes kuewo zekma ojo razlorot cige matsofhup gegele igiwabe ju miso tutiraka. Umuzilej wohir iwodrev jin moag fe va zad kuvzodtiz lomsigip ve irinimnob moir hit wuzim. Zukoki benohuf amwa av ori coiw vigmeg tajhirju ip kosujit sakbiudi ila gefhogutu rogjopdo hulev. Nu didku kehutta fomgu ila evjelhip derezka hekobfa hucfa ba wape kicoj lutac hofom gaipoap po woziza."
+  },
+  "apiKey": "a89a0b00b9c4ed7ea72dfd64225d450039b27b1b7309122a38eb7b70bc8bd58e",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
