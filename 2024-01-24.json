@@ -1,0 +1,26 @@
+{
+  "name": "Janie Edwards",
+  "age": 42,
+  "address": {
+    "street": "Wucuti Trail",
+    "city": "Safbotov",
+    "state": "VT",
+    "zip": "42205"
+  },
+  "contact": {
+    "phone": "(321) 777-3311",
+    "servicePhone": "800564465"
+  },
+  "birthday": "1972-11-28T15:25:52.025Z",
+  "ip": "21.123.197.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Dinjir bico iduves kel warhog cownecuk tahaw tu naggisun vo kivgoc vojfowu wa emmim bulo ka mer. Omeatu ladrirtu agu mujmo pes tapodpa zu jokhezfen ipiwipful mi os vipaozo ronatwu kovab goz hutcejom bimbeab. Ogatibju jahulo wun ovo japdat dewabil zocza ubpe otmati laubuke viudaego opfojup. Kokope li jaedo ico epukagjur ewiura vetnatjac jowi sovtihu sos caje fem pumiw lezra cin. Vuhar meotubi tub ge lituvon law cuwjiwa pogovor turasami rehadjud ahe hihwik ewipot ejoenoog.",
+    "bio": "Nihgadi pa ilulot ede kuhimabe uremoz enozu daof hak sa fur unesa cugnaidi. Cuomi iniwo gob jer wagupoku cu zudin dup ebzaawe ki lolu iho. Orsaf apeifapij ulu mizpuma alhap jod nunjoj foco ze wihuhroh miotile fujuwi am rewuwuvi edhob. Zotrekobe og meuz pimup lu ojazef havow bimro oripep cebroci uliepuof ji fahubu roajzug veibji ec reri raepupel. Idnupas otinamo ce cekef hiki omizudit lifezaw kiggonero tig wawhi set ekiahe rodnose."
+  },
+  "apiKey": "4f47fd36afb1d9d9eef71f8a7912305d1ed6742e7ef406da11d453c824f8199c",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
