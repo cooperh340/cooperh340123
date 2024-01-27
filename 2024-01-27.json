@@ -1,0 +1,26 @@
+{
+  "name": "Iva Ballard",
+  "age": 45,
+  "address": {
+    "street": "Uwuari Terrace",
+    "city": "Cozdenif",
+    "state": "MD",
+    "zip": "59176"
+  },
+  "contact": {
+    "phone": "(557) 499-7474",
+    "servicePhone": "800712127"
+  },
+  "birthday": "1992-03-31T13:32:20.351Z",
+  "ip": "148.124.145.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Wit jamfavos oma ko itiba uwuceczaf adesu lacjuwkow laz dilzut buppo wewuom sefkinu dado za radehoha mepbez. Tour rikij awaenuvu vopvaza gegjev ubolis vuw dulo begokojo kigni wi siw fe bujot mo. Hal zidunwiw jagmo cimlewma vogefol co azawuma sugrur epkos ge goson zaricvo tiutofuc.",
+    "bio": "Bonu fatva rec jot wekgoc ati bo ve he vuhakmar mor jeh hulpur. Hibdovo wiguc pilkur va guzoz zer dolap zupi fubuk gifguwecu zakakil mekha fuowcec feba racsodka. Vi doci zubgo ofowbap celerfu bakbufi uvo wero enanov veteena birpinbe caz ratunpep ujalihog simewu."
+  },
+  "apiKey": "482a75f9ed523d490803db6666555eefaae3647c99e54d25c5d5a515bda81a19",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
