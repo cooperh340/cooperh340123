@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas McKenzie",
+  "age": 39,
+  "address": {
+    "street": "Owmu Square",
+    "city": "Baniwov",
+    "state": "NM",
+    "zip": "85268"
+  },
+  "contact": {
+    "phone": "(811) 679-7036",
+    "servicePhone": "800728335"
+  },
+  "birthday": "1992-04-28T03:04:30.378Z",
+  "ip": "100.104.138.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Havozo bavuh haoki miwon gec kekoge ilabubif umzi geila le uz lo ise eldelga wusgi. Ak ufu feetiema igeju boljuwod do abcaka ek liod pip lohdim asgih. Vor fu cuv vezu or saregmes oritugaw subhepih na ho seefa wo ro ecuvipcah odtav vu.",
+    "bio": "Ik zubideca ne ifihol tu riw ruvzacbew dabpusow uzoofod gicneare fuba uvvasdo papdun rocdih epeb. Apluaze uvna gafoj macuwum becsete niv cioma udde to ev bebliv cumbemgo naidku. Nikig zifta ehuwoke menhic cadlil zo duto nifo lolsiciz resudu mevinice ukaiwada zeworte reweti weta."
+  },
+  "apiKey": "69122d2c8f75ba7fe4d7389acf29dd35e55f77d35217e6ca364368a14ce0f6c0",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
