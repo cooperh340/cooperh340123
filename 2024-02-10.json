@@ -1,0 +1,26 @@
+{
+  "name": "Craig Adams",
+  "age": 32,
+  "address": {
+    "street": "Zutbel Glen",
+    "city": "Juswaska",
+    "state": "MD",
+    "zip": "41050"
+  },
+  "contact": {
+    "phone": "(778) 987-3563",
+    "servicePhone": "800222864"
+  },
+  "birthday": "1969-02-23T14:01:38.196Z",
+  "ip": "17.230.55.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Opilaknas ivifurel fibdi dikgawa halwamcop owi zagzomiv ne ecpu piefuot le tusguful. Tasra zepoji boho relorruf pa fa ci zajato peiw uj gaci fel owceki puzojem sonak zudej azoluur. Pedujano jo guju lapfub lewta go takewoji duzi redbumte ega rihcatje tabca pu pabimto wib. Wo re cazepco ce mazop givdegew afel uvfamsep zahibius suajfi sifabul hejeki powo mefloej ijilko liuzeva nuwawcih. Agumihic wa pihpehet ta sumokpi lepe devki eluzu sabzasu ibguf en wuijobe riojo romi mud gakepa.",
+    "bio": "Ramkak kus he icoupi nohuvza tobroh taif soztosid riftapwe wuhonden ij ibetosid urzu ma oretmen raf dif. Dijamtub gejuhabi na vawjubemu la gegapev daghaada vobivop wihufwu vikpi lirewi ko esediala cuh nernimdet liamu eg. Gan uc tag pekus fibda bownimdec atrup miep nugba ruveg hucefoh dojigkum su nat tovhu zacju. Dot nezaduwu mihuv guwlelawe owenla ne umsuj torja leaju vujahit havuf milem vufejot piwo surba jac socdo."
+  },
+  "apiKey": "70ced5eff3df88bdff52e31b9a397e261bddb38bd63cdf4badee6c4099edb70f",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
