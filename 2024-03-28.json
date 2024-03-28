@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Cruz",
+  "age": 60,
+  "address": {
+    "street": "Uplu Parkway",
+    "city": "Jaehrop",
+    "state": "SC",
+    "zip": "35037"
+  },
+  "contact": {
+    "phone": "(639) 273-6292",
+    "servicePhone": "800133182"
+  },
+  "birthday": "1974-04-22T21:30:45.355Z",
+  "ip": "8.142.224.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Low ecfa biboteh ha zessi da forbatwo ti aboluvro ihoru ikujole kiced birzoha uce tubcafa wi. Ob burduzub sono vehelpam waihe ogi zuboba tef piri tuumo zaf natukci ta uwa mi ti litdet cagjo. Nepo ze sitvizuk udcum kulkugcen wuk tiwza rafzi at fovu nisu usnopa hi gonpoma teoj fuv pu.",
+    "bio": "Dob ezcuvkoc he konwubco danidosa cuflo ire kiwkeb roiznom hid jic soh weuffaf zidkir tasekig. Hiloruj paw at ejaduneg rirze tujfeluk mimuc nuvci weje ejooru curejvu iw. Bul sowa ziwval kon ela del deb naclokun kesvubjaw zes kogpugake oni mo zuhfe atiuroonu bege pahi welo."
+  },
+  "apiKey": "12645965202bc5b70abe602f025c67e501c134d871023d28dfa4eb53d4b77a11",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
