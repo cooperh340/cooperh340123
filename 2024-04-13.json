@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Morton",
+  "age": 60,
+  "address": {
+    "street": "Gunat Avenue",
+    "city": "Lurudge",
+    "state": "RI",
+    "zip": "59584"
+  },
+  "contact": {
+    "phone": "(457) 973-8128",
+    "servicePhone": "800192111"
+  },
+  "birthday": "1982-06-22T23:48:31.645Z",
+  "ip": "21.116.190.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Jirluzluf vewinov tu guadvuw cev fe si gifa pun geszi zino wo tuwwan ni. Bimdec di mateat kokzan jef conmuvat rien epoguke hur gun berobu ba dih ibmatir vomazok cuap buta. Hawikuc fisunfad kintu su nuhi acpaima nekig nuz saatdam sas pipoc ukwokum wuluwik ijunam. Capfo nablaf sijupzuj mu tikezaw favfako vele fapec vatnu oseab poleji zaeh ta vofacdi san vorhec foeri haco.",
+    "bio": "Zer zize dokej zalin ih fojpenip bige cesu wak upvovro heeple gok ne avoowu heb uri jeivozo fug. Filkat ricube poz zowev ziwuma ineno zore milzubit guldusho rogsum oj koore aliokita ibioke cujufa ko caf gi. Ri eduge ajatujme tid ibjah almobo zuuzarum fi koj atce fu cuglazira hihbi bav hogmod hadpur ake."
+  },
+  "apiKey": "2d7b8435c02b420096fb92bef39f5831ca05a6b738b83fcc05df0b79c07d993b",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
