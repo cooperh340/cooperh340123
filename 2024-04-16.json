@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Turner",
+  "age": 21,
+  "address": {
+    "street": "Goavo Trail",
+    "city": "Noijeg",
+    "state": "NV",
+    "zip": "64595"
+  },
+  "contact": {
+    "phone": "(975) 846-7709",
+    "servicePhone": "800694278"
+  },
+  "birthday": "2002-02-23T09:50:14.833Z",
+  "ip": "52.98.112.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahu nabaj tekvo ohase kuv bo evro zugvebu okemueta nurav fodakca orerav kac edela gulpel le zocnuw. Lag opamojca gerit ka momli rel pu cez varape ivdo dawsukhiv er tizujsab kemhi nob. Ju oli ahebi pobad avcumgot wi kubhaw in vi fa usoadwi hum gusilzuz pizkuz ba cu cigikes isucejek. Bucte cegugbu uz lujag sabac ituezula co umihuk bapepi inire go keg cestowva ape ozuvuweh faf. Afucez zi voev ematemre soz wosloha vaf nowur na co uza ta mehsadzeg ogune puira suum piwzolur.",
+    "bio": "Uz nisto gegvu zufalo lanrug et vu tizben kudlucca fe zuf umoeco pu jod gumwe subiij ehiape irbivkew. Ehohe hodof lowaz jat bebme socefu kozipaode futup vonpaf tiije ifaute es. Piparu jedmibfem toh jackivlo cic cokurdom zuzelma zod romkecra rosa lubhidwij zovmilab op irnavziv evsinu. Arpij ses safwavoku lomnoesu toveg nudfanwew pahac jiviv vedni na moruse na huj edewa kucmokluj jah of."
+  },
+  "apiKey": "ad239cdea7cce1e63cdfc458473a8952c23d23d7d07ec91e0459aa7d8fa54612",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
