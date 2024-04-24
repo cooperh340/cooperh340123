@@ -1,0 +1,26 @@
+{
+  "name": "Evan Gregory",
+  "age": 42,
+  "address": {
+    "street": "Mafzuh Loop",
+    "city": "Seopupor",
+    "state": "CA",
+    "zip": "30286"
+  },
+  "contact": {
+    "phone": "(753) 593-1192",
+    "servicePhone": "800499154"
+  },
+  "birthday": "1981-11-28T03:41:12.020Z",
+  "ip": "252.15.214.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahufugdem tinwag ufjujgo fujijiaho le mi idudo gi nuef udavu ere gazissef arnugva tu vo. Negdal linavavis uwgola lifi pogrodvot orneoz jopipe fulli nu rut hez ogikoto da ahivu rir omi. Fa lemraup pew ci pobpaeci cagije majpub olda awuak davpezek omogeh hevlos ke ufios zama jef ro ec.",
+    "bio": "Lopow kidwibce so lajsi le po kujci gumlo wipobnej vab wospufel itonaw nacsenpes ijuuwi. Os leroti gaf sok ov jofakda ra taah ovjejbed ogo ofebi dazi dalkiz fif punage ecal rod ni. Doive zusbokze vul iwe ahnet nu in goda sib jakotor odmi wid. Pisne emu ribu nutzik weh go sezu kiv imjud ture sus zagdoh fu uznez atgoop sapi."
+  },
+  "apiKey": "671d699636cb2dc7fdd9d6ac3f149638af4f78ff64b11bc57c5d659f1350f017",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
