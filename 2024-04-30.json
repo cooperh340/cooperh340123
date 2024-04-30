@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Harmon",
+  "age": 37,
+  "address": {
+    "street": "Wubeh Glen",
+    "city": "Rortiod",
+    "state": "AL",
+    "zip": "49129"
+  },
+  "contact": {
+    "phone": "(936) 349-9618",
+    "servicePhone": "800716969"
+  },
+  "birthday": "1981-10-30T08:33:00.208Z",
+  "ip": "245.251.143.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Kotwire oweeguso ovavi uhodibu pi ifabeked an teviti zageigo wenlu le sum. Nozun cito haj esniv urjicti hesokti suf revo juvherog odi new pa okufodot carak bahavdu. Co tukar osca zomen wupvatku bosjuga ihgorhe nohifwil bera eg fiwuz uv onifeol. Ba bifub befa burko vagnu bicnim teszoka fazu wun ilzerwuk ba wosek. Ocbeswik wosi hiwerbud jihom kokocu cevtepga winehoti besve lujjomcaf gotdacen lojojoma seh em co.",
+    "bio": "Iba ej gavinugo uz viboh guwbes anivengid faw faam reb fo zuj. Buj ci go zo hik koov opofij mog za ib ifeekmi abroton dudhiruw ari ufasat jir tuj ena. Ga daru wilsoj hoszivo lu birwiaja ec wu biceglu mirvoh zeftiwu lurfut zizindo fegdi uweut je lugloz."
+  },
+  "apiKey": "356ad77913feca6a89d7f88f0adb845bbe526e9ba7c3b497cd1acd6ab047ed13",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
