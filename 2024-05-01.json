@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Roy",
+  "age": 53,
+  "address": {
+    "street": "Konmep Street",
+    "city": "Okaweki",
+    "state": "WV",
+    "zip": "59505"
+  },
+  "contact": {
+    "phone": "(327) 493-9528",
+    "servicePhone": "800629367"
+  },
+  "birthday": "2001-01-26T04:51:22.513Z",
+  "ip": "136.159.39.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaz akkipub pagculhod emubusif labmewes fo mus gov uleni sejvalsu ufoji lupbup it nofbe raami bapaota boov. Hiw jeani tu dub siz ruimule igivo jupriz puuw ris cidu asoadutu. Neju ulo cojup fojhencel zomtavo bolide piga dicutu tuzogju ho ur fabe fononuc za vurto.",
+    "bio": "Ki ohbav nicju zigugme luegu ci zopeti seorola labij fa ja zova dozulwem kufaah zit. Kewowuafo so omeru kid vigun lig ac fa fezil wekjomjoj pab biv imezezit taswural tefelek zakgi titlukegu. Gu zodamu pule salgi capfar ilkiuw umug we unzoh pa naovetu jef zuvotfuh uwew ivipem."
+  },
+  "apiKey": "3572e3d1bd6323e3e4b8467fd522b20d8fb8e883e8d26023b95a58897c954311",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
